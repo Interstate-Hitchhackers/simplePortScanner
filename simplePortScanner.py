@@ -1,4 +1,4 @@
-## Simple Port Scanner
+# Simple Port Scanner
 import socket
 from queue import Queue
 import threading 
